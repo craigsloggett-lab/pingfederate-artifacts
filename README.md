@@ -1,4 +1,4 @@
-# pingfederate-artifacts
+# PingFederate Artifacts
 
 An infrastructure as code repository to manage the S3 bucket for PingFederate distribution artifacts.
 
