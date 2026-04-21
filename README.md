@@ -8,13 +8,13 @@ An infrastructure as code repository to manage the S3 bucket for PingFederate di
 | Name | Version |
 | ---- | ------- |
 | <a name="requirement_terraform"></a> [terraform](#requirement\_terraform) | ~> 1.7 |
-| <a name="requirement_aws"></a> [aws](#requirement\_aws) | 6.40.0 |
+| <a name="requirement_aws"></a> [aws](#requirement\_aws) | 6.41.0 |
 
 ## Providers
 
 | Name | Version |
 | ---- | ------- |
-| <a name="provider_aws"></a> [aws](#provider\_aws) | 6.40.0 |
+| <a name="provider_aws"></a> [aws](#provider\_aws) | 6.41.0 |
 
 ## Modules
 
@@ -30,12 +30,12 @@ No modules.
 
 | Name | Type |
 | ---- | ---- |
-| [aws_s3_bucket.artifacts](https://registry.terraform.io/providers/hashicorp/aws/6.40.0/docs/resources/s3_bucket) | resource |
-| [aws_s3_bucket_public_access_block.artifacts](https://registry.terraform.io/providers/hashicorp/aws/6.40.0/docs/resources/s3_bucket_public_access_block) | resource |
-| [aws_s3_bucket_server_side_encryption_configuration.artifacts](https://registry.terraform.io/providers/hashicorp/aws/6.40.0/docs/resources/s3_bucket_server_side_encryption_configuration) | resource |
-| [aws_s3_bucket_versioning.artifacts](https://registry.terraform.io/providers/hashicorp/aws/6.40.0/docs/resources/s3_bucket_versioning) | resource |
-| [aws_caller_identity.current](https://registry.terraform.io/providers/hashicorp/aws/6.40.0/docs/data-sources/caller_identity) | data source |
-| [aws_region.current](https://registry.terraform.io/providers/hashicorp/aws/6.40.0/docs/data-sources/region) | data source |
+| [aws_s3_bucket.artifacts](https://registry.terraform.io/providers/hashicorp/aws/6.41.0/docs/resources/s3_bucket) | resource |
+| [aws_s3_bucket_public_access_block.artifacts](https://registry.terraform.io/providers/hashicorp/aws/6.41.0/docs/resources/s3_bucket_public_access_block) | resource |
+| [aws_s3_bucket_server_side_encryption_configuration.artifacts](https://registry.terraform.io/providers/hashicorp/aws/6.41.0/docs/resources/s3_bucket_server_side_encryption_configuration) | resource |
+| [aws_s3_bucket_versioning.artifacts](https://registry.terraform.io/providers/hashicorp/aws/6.41.0/docs/resources/s3_bucket_versioning) | resource |
+| [aws_caller_identity.current](https://registry.terraform.io/providers/hashicorp/aws/6.41.0/docs/data-sources/caller_identity) | data source |
+| [aws_region.current](https://registry.terraform.io/providers/hashicorp/aws/6.41.0/docs/data-sources/region) | data source |
 
 ## Outputs
 
